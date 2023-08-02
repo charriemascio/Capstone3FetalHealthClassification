@@ -3,7 +3,7 @@
 - Data files: <https://github.com/charriemascio/Capstone3FetalHealthClassification/blob/main/archive/fetal_health.csv>
 
 - Data Wrangling/EDA Jupyter Notebook: <https://github.com/charriemascio/Capstone3FetalHealthClassification/blob/main/Capstone3DataWranglingEDA.ipynb>
-- Preprocessing/Data Modeling Jupyter Notebook: <https://github.com/charriemascio/Capstone3FetalHealthClassification/blob/main/Capstone3ModelMetricsFile.docx>
+- Preprocessing/Data Modeling Jupyter Notebook: <https://github.com/charriemascio/Capstone3FetalHealthClassification/blob/main/Capstone3PreprocessingModeling.ipynb>
 
 - Project Final Report: <https://github.com/charriemascio/Capstone3FetalHealthClassification/blob/main/Capstone3FinalProjectReport.pdf>
 - Model Metrics: <https://github.com/charriemascio/Capstone3FetalHealthClassification/blob/main/Capstone3ModelMetricsFile.docx>
